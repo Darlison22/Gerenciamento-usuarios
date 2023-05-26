@@ -1,0 +1,11 @@
+
+.container-home {
+    margin-top: 100px;
+    border-radius: 4px;
+    border: 2px solid #CCCC;
+}
+
+.container-home h1 {
+    font-size: 1.6em;
+    font-weight: bold;
+}

@@ -1,0 +1,32 @@
+
+
+nav h2 {
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.meus-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.meus-links li {
+    margin-right: 50px;
+}
+
+.meus-links li a {
+    color: #FFF;
+    font-size: 1.2em;
+    font-weight: bold;
+}

@@ -1,0 +1,11 @@
+
+.container-lista {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+table {
+    width: 1000px;
+}
